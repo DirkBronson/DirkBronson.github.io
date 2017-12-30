@@ -1,7 +1,7 @@
 h1 {
   color: white;
   font-size: 100px;
-  font-family: "Alex Brush", serif;
+  font-family: Pacifico, serif;
   text-align: center;
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 img {
-    display: block;
+    display: flex
     margin: auto;
     width: 70%;
 }
