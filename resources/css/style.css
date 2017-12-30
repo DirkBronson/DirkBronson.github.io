@@ -10,7 +10,7 @@
 h1 {
   color: white;
   font-size: 100px;
-  font-family: "Alex Brush", cursive;
+  font-family: 'Alex Brush', cursive;
   text-align: center;
 }
 
@@ -18,15 +18,15 @@ h2 {
   color: white;
   font-size: 70px;
   text-align: center;
-  font-family: "Alex Brush", cursive;
+  font-family: 'Alex Brush', cursive;
 }
 
 body {
-  background-image: url("resources/k-m2.png");
+  background-color: black;
 }
 
 img {
     display: block;
     margin: auto;
-    width: 100px;
+    width: 1000px;
 }
