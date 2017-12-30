@@ -21,6 +21,13 @@ h2 {
   font-family: 'Alex Brush', cursive;
 }
 
+h3 {
+  color: white;
+  font-size: 40px;
+  text-align: right;
+  font-family: 'Alex Brush', cursive;
+}
+
 body {
   background-color: black;
 }
