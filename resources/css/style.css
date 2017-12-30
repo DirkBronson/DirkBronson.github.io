@@ -6,6 +6,13 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
 }
 
+@font-face {
+  font-family: 'Permanent Marker';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'), url(https://fonts.gstatic.com/s/permanentmarker/v7/9vYsg5VgPHKK8SXYbf3sMio-5Z6V1O0VBgfXWFfbB4c.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
 
 h1 {
   color: white;
@@ -36,4 +43,15 @@ img {
     display: block;
     margin: auto;
     width: 1000px;
+}
+
+footer {
+  color: rgba(255 , 255 , 255 , 0.5);
+  font-family: 'Permanent Marker';
+  text-align: right;
+  font-size: 24px;
+}
+
+.foot {
+  opacity: 75%;
 }
